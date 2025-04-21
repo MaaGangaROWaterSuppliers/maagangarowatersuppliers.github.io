@@ -25,7 +25,7 @@ const Documentation = () => {
                   <div className="bg-blue-50 p-6 rounded-lg mb-6">
                     <h3 className="text-xl font-semibold text-blue-800 mb-3">Contact Information</h3>
                     <ul className="space-y-2 text-gray-700">
-                      <li><strong>Phone:</strong> 9818552087</li>
+                      <li><strong>Phone:</strong> 9818552087 , 9990160746 </li>
                       <li><strong>Address:</strong> House No. 163/1, Near By New Anaj Mandi, Tigaon, Faridabad, HR 121101</li>
                     </ul>
                   </div>

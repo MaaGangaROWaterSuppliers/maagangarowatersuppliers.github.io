@@ -91,6 +91,13 @@ const Footer = () => {
                   >
                     9990160746
                   </a>
+                   , 
+                  <a
+                      href="tel:9818552087"
+                      className="text-blue-200 hover:text-white transition-colors"
+                  >
+                    9818552087
+                  </a>
                 </li>
                 <li className="flex items-start">
                   <Mail className="w-5 h-5 text-blue-300 mr-3 mt-0.5 flex-shrink-0" />
