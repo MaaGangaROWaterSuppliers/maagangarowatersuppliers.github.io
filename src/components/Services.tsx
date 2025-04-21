@@ -52,7 +52,11 @@ const Services = () => {
 
         <div className="mt-16 bg-blue-50 rounded-xl p-8 relative overflow-hidden">
           <div className="absolute right-0 top-0 w-1/3 h-full opacity-10 bg-contain bg-no-repeat bg-right"
+<<<<<<< HEAD
                style={{backgroundImage: "url('https://images.pexels.com/photos/1029624/pexels-photo-1029624.jpeg?auto=compress&cs=tinysrgb&w=1280')"}}></div>
+=======
+               style={{backgroundImage: "url('https://i.ibb.co/ZXxZVvX/wave-pattern.png')"}}></div>
+>>>>>>> 9fa226f1fbaf1e04cf2af06be70409b7cd038cbf
           
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="mb-6 md:mb-0 md:mr-8">

@@ -75,6 +75,7 @@ body {
 
 .btn-secondary {
   @apply transition duration-300;
+<<<<<<< HEAD
 }
 
 @keyframes wave-slow {
@@ -143,4 +144,6 @@ body {
 
 .animate-pulse-slow {
   animation: pulse-slow 6s ease infinite;
+=======
+>>>>>>> 9fa226f1fbaf1e04cf2af06be70409b7cd038cbf
 }
