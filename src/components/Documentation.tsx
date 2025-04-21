@@ -18,7 +18,7 @@ const Documentation = () => {
                     Maa Ganga RO Water Suppliers is your trusted partner for pure and affordable drinking water delivery in Tigaon, IMT, and nearby areas.
                   </p>
                   <img 
-                    src="assets/maagangarowatersuppliers.jpg"
+                    src="https://github.com/MaaGangaROWaterSuppliers/maagangarowatersuppliers.github.io/blob/main/assets/maagangarowatersuppliers.jpg?raw=true"
                     alt="Maa Ganga RO Logo"
                     className="w-100 h-100 mb-6"
                   />

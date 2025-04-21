@@ -35,7 +35,7 @@ const Hero = () => {
             </div>
             <div className="hidden lg:block">
               <img
-                  src="assets/maagangarowater.png"  // Make sure this image has transparent background
+                  src="https://github.com/MaaGangaROWaterSuppliers/maagangarowatersuppliers.github.io/blob/main/assets/maagangarowater.png?raw=true"  // Make sure this image has transparent background
                   alt="RO Water Bottles"
                   className="max-w-md mx-auto transform hover:scale-105 transition-transform duration-300 drop-shadow-lg"
               />

@@ -25,7 +25,7 @@ const Header = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
           <img 
-            src="assets/maagangarowater.png"
+            src="https://github.com/MaaGangaROWaterSuppliers/maagangarowatersuppliers.github.io/blob/main/assets/maagangarowater.png?raw=true"
             alt="Maa Ganga RO" 
             className="h-12 w-12 mr-2"
           />
