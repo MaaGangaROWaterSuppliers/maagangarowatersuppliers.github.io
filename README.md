@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+---
 
-## Project info
+# Maa Ganga RO Water Suppliers 🌊
 
-**URL**: https://lovable.dev/projects/473738d9-d9d3-464f-bb52-1a9b7964f667
+Welcome to the official **Maa Ganga RO Water Suppliers** website repository.
+This project powers our **online presence**, enabling seamless customer interaction and promoting our reliable water supply services.
 
-## How can I edit this code?
+[🔗 Visit Website](https://maagangarowatersuppliers.github.io)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📌 Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/473738d9-d9d3-464f-bb52-1a9b7964f667) and start prompting.
+**Maa Ganga RO Water Suppliers** is dedicated to delivering clean, safe, and healthy RO water to homes and businesses.
+This GitHub Pages-powered site provides:
 
-Changes made via Lovable will be committed automatically to this repo.
+✅ **Company information**
+✅ **Services offered**
+✅ **Contact details**
+✅ **Online order facilitation (where available)**
 
-**Use your preferred IDE**
+Our platform emphasizes **transparency**, **accessibility**, and **customer-first principles**.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Features
 
-Follow these steps:
+* **Responsive design** – Optimized for desktop, tablet, and mobile devices.
+* **Fast loading** – Built with lightweight HTML, CSS, and JavaScript for superior performance.
+* **Easy maintenance** – Content-driven structure for quick updates.
+* **SEO-ready** – Designed with search visibility in mind.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## ⚙️ Technologies Used
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Technology     | Purpose                          |
+| -------------- | -------------------------------- |
+| `HTML5`        | Content structure                |
+| `CSS3`         | Styling and layout               |
+| `JavaScript`   | Interactivity (where applicable) |
+| `GitHub Pages` | Deployment and hosting           |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+---
+
+## 📂 Repository Structure
+
+```
+/
+├── index.html          # Main landing page
+├── /assets             # Images, icons, and media
+├── /css                # Stylesheets
+├── /js                 # JavaScript files (if used)
+└── README.md           # Project documentation
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 How to Contribute
 
-**Use GitHub Codespaces**
+This is currently a **company-managed repository**. Contributions are not open at this time.
+For feedback or suggestions, kindly contact us via the website’s contact form.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📞 Contact
 
-This project is built with:
+**Maa Ganga RO Water Suppliers**
+Gurugram, Haryana, India
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📧 [maagangaROwater@example.com](mailto:maagangaROwater@example.com)
+📱 +91-XXXXXXXXXX
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/473738d9-d9d3-464f-bb52-1a9b7964f667) and click on Share -> Publish.
+## ⚠️ License
 
-## Can I connect a custom domain to my Lovable project?
+This project is **proprietary**.
+All rights reserved © Maa Ganga RO Water Suppliers.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---

@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 const WhatsAppChat = () => {
   const [isOpen, setIsOpen] = useState(false);
 
-  const whatsappNumber = "919876543210";
+  const whatsappNumber = "917678658070";
   const defaultMessage = encodeURIComponent("Hello! I'm interested in your water delivery service. Please provide more details.");
 
   const openWhatsApp = () => {

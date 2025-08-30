@@ -65,20 +65,20 @@ const Contact = () => {
     {
       icon: <Phone className="h-5 w-5" />,
       title: "Phone",
-      info: "+91 98765 43210",
-      action: "tel:+919876543210"
+      info: "+91 76786 58070",
+      action: "tel:+917678658070"
     },
     {
       icon: <MessageCircle className="h-5 w-5" />,
       title: "WhatsApp",
-      info: "+91 98765 43210",
-      action: "https://wa.me/919876543210"
+      info: "+91 76786 58070",
+      action: "https://wa.me/917678658070"
     },
     {
       icon: <Mail className="h-5 w-5" />,
       title: "Email",
-      info: "info@maagangarowater.com",
-      action: "mailto:info@maagangarowater.com"
+      info: "karamchandnagar33@gmail.com",
+      action: "mailto:karamchandnagar33@gmail.com"
     },
     {
       icon: <MapPin className="h-5 w-5" />,

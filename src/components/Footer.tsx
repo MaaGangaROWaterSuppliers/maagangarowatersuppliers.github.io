@@ -34,25 +34,25 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-white/60" />
-                <a href="tel:+919876543210" className="text-sm hover:text-white/80 transition-colors">
-                  +91 98765 43210
+                <a href="tel:+917678658070" className="text-sm hover:text-white/80 transition-colors">
+                  +91 76786 58070
                 </a>
               </div>
               <div className="flex items-center space-x-3">
                 <MessageCircle className="h-4 w-4 text-white/60" />
                 <a 
-                  href="https://wa.me/919876543210" 
+                  href="https://wa.me/917678658070"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-sm hover:text-white/80 transition-colors"
                 >
-                  WhatsApp: +91 98765 43210
+                  WhatsApp: +91 76786 58070
                 </a>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-white/60" />
-                <a href="mailto:info@maagangarowater.com" className="text-sm hover:text-white/80 transition-colors">
-                  info@maagangarowater.com
+                <a href="mailto:karamchandnagar33@gmail.com" className="text-sm hover:text-white/80 transition-colors">
+                  karamchandnagar33@gmail.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">
